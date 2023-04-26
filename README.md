@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Satyam-CEDCOSS
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Phalcon
